@@ -1,3 +1,9 @@
+# Time
+
+Home 0.5ms
+DynamicTable 0.7ms
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
